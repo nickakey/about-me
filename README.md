@@ -10,8 +10,7 @@
 
 #### 👨‍🏫 I'm passionate about **education**
 
-![](/Users/nakey/Code/nickakey.com/holacode.jpg)
-
+![](/holacode.jpg)
 
 
 - 🇲🇽 [In 2018 I lived in Mexico City and taught deportees Computer Science ](https://www3.nhk.or.jp/nhkworld/en/news/backstories/243/)
