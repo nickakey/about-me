@@ -21,7 +21,7 @@
 
 
 
-#### 🕶 Side Projects
+#### 🕶&nbsp;&nbsp;Side Projects
 
 - 📕&nbsp;&nbsp;[ReadHabit.io](https://readhabit.io/)
   - A mobile-first web app to help you **build a reading habit**
