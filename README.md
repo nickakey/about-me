@@ -15,9 +15,8 @@
 
 - 🇲🇽&nbsp;&nbsp;[In 2018 I lived in Mexico City and taught deportees Computer Science ](https://www3.nhk.or.jp/nhkworld/en/news/backstories/243/)
 - 📹&nbsp;&nbsp;Some of my Javascript video lectures have become [very popular on Youtube](https://www.youtube.com/watch?v=zd2STahSBaA)
-
-* 📣&nbsp;&nbsp;I routinely give a popular talk called [How to Ace your Interview with Memory Science](https://www.youtube.com/watch?v=DmyEb0S1gUw)
-* 🎹&nbsp;&nbsp; I have an interactive talk called [How to Play Music by Ear](https://www.youtube.com/watch?v=jODeoMsJ_Rs)
+- 📣&nbsp;&nbsp;I routinely give a popular talk called [How to Ace your Interview with Memory Science](https://www.youtube.com/watch?v=DmyEb0S1gUw)
+- 🎹&nbsp;&nbsp; I have an interactive talk called [How to Play Music by Ear](https://www.youtube.com/watch?v=jODeoMsJ_Rs)
 
 
 
