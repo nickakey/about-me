@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title: resources
 layout: template
 filename: resources.md
 --- 
