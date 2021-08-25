@@ -3,7 +3,7 @@ title: test blog
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Talking about Software Engineering, Learning, and Side Hustles
+  I write about Software Engineering, Learning, and Side Hustles
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
