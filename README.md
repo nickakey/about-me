@@ -21,7 +21,7 @@
 
 #### 🕶&nbsp;&nbsp;Side Projects
 
-- 📕&nbsp;&nbsp;[Notion Cover Generator](https://www.notioncovergenerator.com/)
+- 📷&nbsp;&nbsp;[Notion Cover Generator](https://www.notioncovergenerator.com/)
   - Generate custom cover images for **Notion**
 - 📕&nbsp;&nbsp;[ReadHabit.io](https://readhabit.io/)
   - A mobile-first web app to help you **build a reading habit**
