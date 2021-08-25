@@ -1,9 +1,3 @@
----
-title: resources
-layout: template
-filename: resources.md
---- 
-
 # Free Resources 😄
 
 *(follow me at [@nick_akey](https://twitter.com/nick_akey) to know when I release more)*
