@@ -4,7 +4,7 @@
 
 ------
 
-#### 1/6: [Link Redirect Trace](https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh?hl=en) by [Link Research Tools](http://www.linkresearchtools.com/)
+### 1/6: [Link Redirect Trace](https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh?hl=en) by [Link Research Tools](http://www.linkresearchtools.com/)
 
 Ever wonder what happens when you click a link and go through 3 - 4 redirects before ending up at destination?
 
@@ -14,7 +14,7 @@ With this extension - you can analyze every step of the process.
 
 
 
-#### 2/6: [User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+### 2/6: [User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 
 If you're trying to see the ACTUAL mobile version of a site, it's NOT ENOUGH to change your window size -  
 
@@ -24,7 +24,7 @@ You also need to switch your user agent! This gives you legit mobile experience 
 
 
 
-#### 3/6: [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en) by [Solaiman Kmail](https://twitter.com/SolaimanKmail)
+### 3/6: [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en) by [Solaiman Kmail](https://twitter.com/SolaimanKmail)
 
 Developing for mobile and desktop?  
 
@@ -32,7 +32,7 @@ This extension let's you view them side by side - AND even syncs your clicks and
 
 ![](https://lh3.googleusercontent.com/z_GpBxbiu0-9yGrpsHUEK7hgqx9fUfmgIIoVMrLwLtxWY_HWwaahGcbuCTLk3B9muapBjSJ802jhabHAx-2hkbz3bg=w640-h400-e365-rj-sc0x00ffffff)
 
-#### 4/6: [Video Speed Player](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) by [Ilya Grigorik](https://www.igvita.com/)
+### 4/6: [Video Speed Player](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) by [Ilya Grigorik](https://www.igvita.com/)
 
 Video code tutorials are SO SLOW. This extensions speeds up videos so you can get through more in less time.  
 
@@ -42,7 +42,7 @@ The downside? You'll never be able to watch at normal speed again!
 
 
 
-#### 5/6: [What Font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?hl=en) 
+### 5/6: [What Font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn?hl=en) 
 
 Quickly identify fonts on a web page. 
 
@@ -54,7 +54,7 @@ Much faster than doing it through Chrome's inspector
 
 
 
-#### 5/6: [Allow Right Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo?hl=en) 
+### 5/6: [Allow Right Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo?hl=en) 
 
 Ever notice some sites BLOCK the right click menu? 
 
