@@ -1,6 +1,6 @@
 ## Hi, I'm Nick!
 
-- 👋&nbsp;&nbsp;I'm a full stack software engineer, based in Austin Texas 
+- 👋&nbsp;&nbsp;I'm a full stack software engineer based in Austin Texas 
 - 👨‍💻&nbsp;&nbsp;I work at [Ojo Labs](https://ojo.com/)
 - 📖&nbsp;&nbsp;You can find my detailed job history [here](https://www.linkedin.com/in/nickakeygrowth/)
 - 📫&nbsp;&nbsp;Get in touch with me - **nick@nickakey.com**
