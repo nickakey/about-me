@@ -9,3 +9,7 @@ twitter_username: nick_akey # DO NOT include the @ character, or else the build 
 github_username:  nickakey # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
