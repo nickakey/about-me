@@ -23,10 +23,9 @@
 
 - 📷&nbsp;&nbsp;[Notion Cover Generator](https://www.notioncovergenerator.com/)
   - Generate custom cover images for **Notion**
+  - Featured on NotionJoy.com, and NotionChina.co
 - 📕&nbsp;&nbsp;[ReadHabit.io](https://readhabit.io/)
   - A mobile-first web app to help you **build a reading habit**
-- 🎼&nbsp;&nbsp;[Chordy.io](https://chordy.io/)
-  - Music teachers use this tool to simplify **teaching music theory**
 - 😍&nbsp;&nbsp;Both projects designed by the super talented [Marcela Cárdenas](https://www.linkedin.com/in/marcelacardenasc/) (who also happens to be my fiancè ;)
 
 
