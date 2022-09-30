@@ -4,7 +4,7 @@ Language learning requires sacrifice.
 
 You're sacrificing time, energy, and willpower.
 
-This means language learning has to be budgeted for, within ALL the other things that demand your these resources. (Work, other goals / hobbies, family)
+This means language learning has to be budgeted for, within ALL the other things that demand your resources. (Work, other goals / hobbies, family)
 
 Frankly, this sucks.
 
@@ -39,11 +39,15 @@ Over a week of memeing, this could add up to hundreds or thousands of target lan
 
 That's a great deal for something that requires 0 effort!
 
-**BONUS TIP:** To find meme accounts in your target language, Google the phrase "best meme accounts" - but do so in your TARGET language. For Spanish memes I searched "Mejor cuentas de memes"
+**BONUS TIP:** To find meme accounts in your target language, Google the phrase "best meme accounts" - but do so in your TARGET language. For Spanish memes I searched "Mejores cuentas de memes"
 
-Here are some of my favorite Spanish meme accounts:
+Here are some of my favorite Spanish meme accounts: 
 
-### #2: Mis matched subtitles
+- [@cripsregios](https://www.instagram.com/cripsregios/) 
+- [@la_memensa](https://www.instagram.com/la_memensa/?hl=en) 
+- [@MemelasdeOrizaba](https://www.instagram.com/memelasdeorizaba/?hl=en)
+
+### #2: Mismatched subtitles
 
 <p align="center">
   <img src="https://i.imgur.com/oKoPJub.jpg" />
@@ -66,7 +70,7 @@ Without even trying, your eyes will naturally skim the target language subtitles
 
 If you watch 5 hours of Netflix a week, this can add up to thousands of target language sentences read or skimmed. 
 
-**BONUS TIP:** Sometimes this  work with group viewing! If you are watching with a partner or friends, they often won't mind if there are extra subtitles on the bottom of the screen they don't understand. It's worth asking!
+**BONUS TIP:** Sometimes this works with group viewing! If you are watching with a partner or friends, they often won't mind if there are extra subtitles on the bottom of the screen they don't understand. It's worth asking!
 
 ### #3: One word commitment
 
@@ -91,7 +95,7 @@ This should be trivially easy for most, and is guaranteed to BURN the word into 
 
 Do that for a couple weeks, until it's second nature - then choose a new object!
 
-*(The key thing here is that it should always feel easy. Doing one word too many at once and it will start to feel like work)*
+*(The key thing here is that it should always feel easy. Doing more than one word at a time will feel like work)*
 
 ### CONCLUSION-
 
