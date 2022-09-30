@@ -21,9 +21,13 @@ These techniques are based on 2 things:
 - The last technique uses **"the minimal habit"** approach - 
   - Here, you are technically starting a new habit, but we're making the initial commitment SO EASY, that building and following the habit are effortless.
 
-### The techniques: 3 ways learn languages WITHOUT using willpower (or time, or energy)
+## The techniques: 3 ways learn languages WITHOUT using willpower (or time, or energy)
 
-#### #1: Target language memes
+### #1: Target language memes
+
+<p align="center">
+  <img src="https://i.imgur.com/JY0QUfe.jpg" />
+</p>
 
 If you're a fan of scrolling Instagram for memes, this trick is for you!
 
@@ -39,7 +43,14 @@ That's a great deal for something that requires 0 effort!
 
 Here are some of my favorite Spanish meme accounts:
 
-#### #2: Mis matched subtitles
+### #2: Mis matched subtitles
+
+<p align="center">
+  <img src="https://i.imgur.com/oKoPJub.jpg" />
+</p>
+
+> Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/s/photos/watching-tv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 If you like to watch series or movies at home, this trick is for you!
 
@@ -57,7 +68,14 @@ If you watch 5 hours of Netflix a week, this can add up to thousands of target l
 
 **BONUS TIP:** Sometimes this  work with group viewing! If you are watching with a partner or friends, they often won't mind if there are extra subtitles on the bottom of the screen they don't understand. It's worth asking!
 
-#### #3: One word commitment
+### #3: One word commitment
+
+<p align="center">
+  <img src="https://i.imgur.com/ULXoaMq.jpg" />
+</p>
+
+> Photo by <a href="https://unsplash.com/@ankumpan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anna Kumpan</a> on <a href="https://unsplash.com/s/photos/spoon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 If you live with someone who supports your language learning, this one is for you!
 
@@ -75,6 +93,6 @@ Do that for a couple weeks, until it's second nature - then choose a new object!
 
 *(The key thing here is that it should always feel easy. Doing one word too many at once and it will start to feel like work)*
 
-#### CONCLUSION-
+### CONCLUSION-
 
 Those are my 3 tips. Please try them out, and send me an email at nick@nickakey.com if you have any feedback!
