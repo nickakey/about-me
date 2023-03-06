@@ -1,3 +1,14 @@
+* HOW TO RUN THIS LOCALLY: [source](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+* `bundle install` then `bundle exec jekyll serve`
+
+* HOW TO ADD NEW BLOG:
+* Create .md file and add to root of directory
+* Link it via the blogs.md page
+* Running `bundle exec jekyll serve` will automatically create html stuff for it and put it in the right space to serve. 
+
+
+
+
 ## Hi, I'm Nick!
 
 - 👋&nbsp;&nbsp;I'm a senior software engineer, based in Austin Texas 
