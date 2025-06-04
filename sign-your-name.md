@@ -1,8 +1,10 @@
-This is how we built [SignYourName.io](https://signyourname.io/sign?model=model1), a web app that teaches people to sign their names in ASL.
+#### This is how we built [SignYourName.io](https://signyourname.io/sign?model=model1), a web app that teaches people to sign their names in ASL.
 
 <div align="center">
   <img src="sign_name/hero.gif" alt="Data Generation Tool">
 </div>
+
+Full Team: [Nick Akey](https://www.linkedin.com/in/nickakeygrowth/), [Takuya (Andrew) Stern](https://www.linkedin.com/in/takuyastern/), [Riko Naito](https://www.linkedin.com/in/rikonaito/), [Jesus Magana](https://www.linkedin.com/in/zerolinux5/)
 
 ## The Initial Approach (V1): Proof of Concept
 
